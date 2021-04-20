@@ -1,0 +1,11 @@
+C:\Users\BEATRIS\Documents\Especializantes\YELCARL\YELCARL\bin\Debug\YELCARL.exe.config
+C:\Users\BEATRIS\Documents\Especializantes\YELCARL\YELCARL\bin\Debug\YELCARL.exe
+C:\Users\BEATRIS\Documents\Especializantes\YELCARL\YELCARL\bin\Debug\YELCARL.pdb
+C:\Users\BEATRIS\Documents\Especializantes\YELCARL\YELCARL\obj\Debug\YELCARL.csprojResolveAssemblyReference.cache
+C:\Users\BEATRIS\Documents\Especializantes\YELCARL\YELCARL\obj\Debug\YELCARL.Form1.resources
+C:\Users\BEATRIS\Documents\Especializantes\YELCARL\YELCARL\obj\Debug\YELCARL.Producto.resources
+C:\Users\BEATRIS\Documents\Especializantes\YELCARL\YELCARL\obj\Debug\YELCARL.Properties.Resources.resources
+C:\Users\BEATRIS\Documents\Especializantes\YELCARL\YELCARL\obj\Debug\YELCARL.csproj.GenerateResource.Cache
+C:\Users\BEATRIS\Documents\Especializantes\YELCARL\YELCARL\obj\Debug\YELCARL.exe
+C:\Users\BEATRIS\Documents\Especializantes\YELCARL\YELCARL\obj\Debug\YELCARL.pdb
+C:\Users\BEATRIS\Documents\Especializantes\YELCARL\YELCARL\obj\Debug\YELCARL.Login.resources
