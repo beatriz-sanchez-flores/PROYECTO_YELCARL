@@ -20,3 +20,15 @@ C:\Users\BEATRIS\Documents\Especializantes\PROYECTO_YELCARL\YELCARL\obj\Debug\YE
 C:\Users\BEATRIS\Documents\Especializantes\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.Producto.resources
 C:\Users\BEATRIS\Documents\Especializantes\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.Properties.Resources.resources
 C:\Users\BEATRIS\Documents\Especializantes\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\bin\Debug\YELCARL.exe.config
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\bin\Debug\YELCARL.exe
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\bin\Debug\YELCARL.pdb
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.Form1.resources
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.Login.resources
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.Producto.resources
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.Properties.Resources.resources
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.exe
+C:\Users\usuario\Documents\CLASES_2021\PROYECTO_YELCARL_original\PROYECTO_YELCARL\YELCARL\obj\Debug\YELCARL.pdb
