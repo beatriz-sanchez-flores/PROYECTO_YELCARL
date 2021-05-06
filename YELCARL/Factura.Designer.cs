@@ -1,6 +1,6 @@
 ﻿namespace YELCARL
 {
-    partial class Form1
+    partial class Factura
     {
         /// <summary>
         /// Variable del diseñador requerida.
@@ -32,6 +32,11 @@
             this.txtCantidad = new System.Windows.Forms.TextBox();
             this.txtId = new System.Windows.Forms.TextBox();
             this.dvgLista = new System.Windows.Forms.DataGridView();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnVender = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.lblDevolucion = new System.Windows.Forms.Label();
@@ -52,11 +57,6 @@
             this.txtNombre = new System.Windows.Forms.TextBox();
             this.lblNombre = new System.Windows.Forms.Label();
             this.btnBuscar = new System.Windows.Forms.Button();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dvgLista)).BeginInit();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -100,14 +100,40 @@
             this.dvgLista.Size = new System.Drawing.Size(539, 150);
             this.dvgLista.TabIndex = 36;
             // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "Id";
+            this.Column1.Name = "Column1";
+            // 
+            // Column2
+            // 
+            this.Column2.HeaderText = "Nombre";
+            this.Column2.Name = "Column2";
+            // 
+            // Column3
+            // 
+            this.Column3.HeaderText = "Cantidad";
+            this.Column3.Name = "Column3";
+            // 
+            // Column4
+            // 
+            this.Column4.HeaderText = "Precio";
+            this.Column4.Name = "Column4";
+            // 
+            // Column5
+            // 
+            this.Column5.HeaderText = "SubTotal";
+            this.Column5.Name = "Column5";
+            // 
             // btnVender
             // 
+            this.btnVender.BackColor = System.Drawing.Color.Yellow;
             this.btnVender.Location = new System.Drawing.Point(591, 250);
             this.btnVender.Name = "btnVender";
             this.btnVender.Size = new System.Drawing.Size(142, 23);
             this.btnVender.TabIndex = 35;
             this.btnVender.Text = "Vender";
-            this.btnVender.UseVisualStyleBackColor = true;
+            this.btnVender.UseVisualStyleBackColor = false;
             this.btnVender.Click += new System.EventHandler(this.btnVender_Click);
             // 
             // panel2
@@ -219,12 +245,13 @@
             // 
             // btnCargarLista
             // 
+            this.btnCargarLista.BackColor = System.Drawing.Color.Green;
             this.btnCargarLista.Location = new System.Drawing.Point(13, 173);
             this.btnCargarLista.Name = "btnCargarLista";
             this.btnCargarLista.Size = new System.Drawing.Size(164, 23);
             this.btnCargarLista.TabIndex = 27;
             this.btnCargarLista.Text = "Cargar a la lista";
-            this.btnCargarLista.UseVisualStyleBackColor = true;
+            this.btnCargarLista.UseVisualStyleBackColor = false;
             this.btnCargarLista.Click += new System.EventHandler(this.btnCargarLista_Click);
             // 
             // lblPrecio
@@ -288,39 +315,15 @@
             // 
             // btnBuscar
             // 
+            this.btnBuscar.BackColor = System.Drawing.Color.Green;
             this.btnBuscar.Location = new System.Drawing.Point(239, 40);
             this.btnBuscar.Name = "btnBuscar";
             this.btnBuscar.Size = new System.Drawing.Size(75, 23);
             this.btnBuscar.TabIndex = 43;
             this.btnBuscar.Text = "Buscar";
-            this.btnBuscar.UseVisualStyleBackColor = true;
+            this.btnBuscar.UseVisualStyleBackColor = false;
             // 
-            // Column1
-            // 
-            this.Column1.HeaderText = "Id";
-            this.Column1.Name = "Column1";
-            // 
-            // Column2
-            // 
-            this.Column2.HeaderText = "Nombre";
-            this.Column2.Name = "Column2";
-            // 
-            // Column3
-            // 
-            this.Column3.HeaderText = "Cantidad";
-            this.Column3.Name = "Column3";
-            // 
-            // Column4
-            // 
-            this.Column4.HeaderText = "Precio";
-            this.Column4.Name = "Column4";
-            // 
-            // Column5
-            // 
-            this.Column5.HeaderText = "SubTotal";
-            this.Column5.Name = "Column5";
-            // 
-            // Form1
+            // Factura
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -346,7 +349,7 @@
             this.Controls.Add(this.lblId);
             this.Controls.Add(this.lblFactura);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form1";
+            this.Name = "Factura";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.dvgLista)).EndInit();
